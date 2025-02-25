@@ -48,5 +48,5 @@ Example response
 "message": "Time flies! Get back to work!"
 ```
 ## UML Diagram
-![UML Sequence Diagram]("C:\Users\black\Pictures\Screenshots\UML.png")
+![UML Sequence Diagram](UML.png)
 
