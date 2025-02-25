@@ -48,5 +48,5 @@ Example response
 "message": "Time flies! Get back to work!"
 ```
 ## UML Diagram
-![UML Sequence Diagram](UML.png)
+![UML](https://github.com/user-attachments/assets/48bcdba2-0b71-402f-8ed2-368df348fb15)
 
